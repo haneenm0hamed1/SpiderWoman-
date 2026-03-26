@@ -1,4 +1,6 @@
 # 🕸️ Spider-Woman UI Challenge
+![photo_5920329182082698664_y](https://github.com/user-attachments/assets/5e2790b2-9749-420d-9917-29c3db3ade48)
+
 
 A high-end, interactive web experience inspired by the Spider-Verse, featuring a magic lens effect and dynamic theme switching.
 
